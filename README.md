@@ -2,3 +2,4 @@
 Cool Ai project
 
 this ai say w or a or d  and have sensors(input) what say where  wall
+l think eazy to undestand
